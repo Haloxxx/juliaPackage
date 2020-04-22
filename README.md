@@ -1,3 +1,3 @@
 # Przykładowy pakiet w julii
 
-Funkcja hundred() zwraca argument pomnożony przez 100.
+Function powell() takes function and x0 point as arguments and returns the minimum of a funtion.
