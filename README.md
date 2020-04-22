@@ -1,6 +1,7 @@
 # Przykładowy pakiet w julii
 
-Function powell() takes function and x0 point as arguments and returns the minimum of a funtion.
+Function powell() takes function and x0 point as arguments and returns the minimum of a funtion with Powell's interpolation method.
+
 
 
 Copyright 2020 Haloxxx
