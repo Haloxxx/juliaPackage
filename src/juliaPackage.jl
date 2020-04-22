@@ -60,7 +60,7 @@ function powell(f, x0; step=1.0, ϵ=1e-5)
         end
     end
 
-    error("Couldn't find minimum") 
+    throw("Couldn't find minimum")
 
 end
 
